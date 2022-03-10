@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Example post
+title: Welcome to my Website
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2022-03-10 12:00:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## My Name is Sabrina Fields
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+I am pursuing a Master in Public Policy at [The Harris School of Public Policy](https://harris.uchicago.edu/).
 
-## Open Sourced on GitHub
+## Nuclear Energy
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+I study nuclear energy policy, including closing the fuel cycle and addressing public perception concerns.Feel free to reach out anytime!
